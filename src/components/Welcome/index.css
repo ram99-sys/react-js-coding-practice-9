@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.app-container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.subscribe-button {
+  background-color: #ffffff;
+  padding: 10px 15px;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.heading {
+  font-size: 60px;
+  font-family: 'Bree Serif';
+  color: #f0bb03;
+  padding: 20px;
+}
+.description {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Bree Serif';
+  padding: 15px;
+}
